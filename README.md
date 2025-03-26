@@ -5,7 +5,7 @@ Figure 1. Feature Importance Splits in Criminal Sentencing Decision Tree
 
 
 
-| English Term | Legal Meaning |
+| Feature | Legal Meaning |
 |-------------|--------------|
 | Juvenile Delinquency | Criminal acts committed by minors (under 18 years old). |
 | Particularly Cruel | Crimes involving extreme brutality or sadistic behavior. |
@@ -95,3 +95,5 @@ Figure 1. Feature Importance Splits in Criminal Sentencing Decision Tree
 | High Social Harm Potential | Offense poses significant danger to public safety. |
 | **Emergency Avoidance** | Justified harm to avoid greater danger | Special Circumstance |
 | **Corporate Crime** | Offenses by legal entities | Special Circumstance |
+
+Table 1. Legal interpretation of features
