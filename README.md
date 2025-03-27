@@ -1,5 +1,5 @@
 # ICML
-Figure 1. Feature Importance Splits in Criminal Sentencing Decision Tree
+Figure 1. Feature importance segmentation in sentencing decision tree for intentional injury crime
 ![tree_visualization_page-0001](https://github.com/user-attachments/assets/2653603d-4da0-45b2-94c2-cd1576408185)
 <div align="center">
 
